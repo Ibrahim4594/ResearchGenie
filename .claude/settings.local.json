@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv:*)",
+      "Bash(dir /b \"C:\\Users\\ibrah\\OneDrive\\Desktop\\adk agent\")",
+      "Bash(findstr:*)",
+      "Bash(copy:*)",
+      "Bash(python -c \"import sys; sys.path.insert(0, ''.''); from google.genai import adk; print(adk.__file__)\")",
+      "Bash(del agent.py my_agent.py app.py adk_config.py test_setup.py 2)",
+      "Bash(nul)",
+      "Bash(cat:*)",
+      "Bash(test:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
