@@ -2,7 +2,7 @@
 
 ## System Overview
 
-The Personal Research Concierge Agent is a **multi-agent system** built on Google's Agent Developer Kit (ADK) that orchestrates intelligent research automation.
+The Personal Research Concierge Agent is a sophisticated **multi-agent system** built on Google's Agent Developer Kit (ADK) that orchestrates intelligent research automation through coordinated AI agents.
 
 ---
 
