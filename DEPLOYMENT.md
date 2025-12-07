@@ -1,6 +1,6 @@
 # Deployment & Setup Guide
 
-Complete guide for deploying the Personal Research Concierge Agent in production.
+Complete step-by-step guide for deploying the Personal Research Concierge Agent in production environments.
 
 ---
 
