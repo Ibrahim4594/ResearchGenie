@@ -1,1 +1,1 @@
-Warning This is only a example calude.md file
+Warning: This is only an example claude.md file for demonstration purposes.
