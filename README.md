@@ -194,12 +194,12 @@ python main.py "test query" --verbose
 
 ## 🏆 Built With
 
-- Google Gemini 2.0 Flash API
-- Python 3.13
-- Pydantic for data validation
-- BeautifulSoup4 for web scraping
-- PDFPlumber for document processing
-- Full multi-agent orchestration
+- **Google Gemini 2.0 Flash API** - Advanced AI model
+- **Python 3.13** - Latest Python version
+- **Pydantic** - Robust data validation
+- **BeautifulSoup4** - Web content extraction
+- **PDFPlumber** - Document processing
+- **Multi-agent Architecture** - Coordinated task orchestration
 
 ---
 
