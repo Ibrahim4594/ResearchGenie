@@ -215,17 +215,22 @@ MIT License - Free to use and modify
 ## 👨‍💻 For Hackathon Judges
 
 **This project demonstrates:**
-- ✅ Production-grade multi-agent system
-- ✅ Real Google Gemini 2.0 integration
-- ✅ Comprehensive research capabilities
-- ✅ Clean, maintainable code
-- ✅ Full error handling
-- ✅ Professional CLI interface
+- ✅ Production-grade multi-agent system architecture
+- ✅ Real Google Gemini 2.0 Flash integration
+- ✅ Comprehensive research and analysis capabilities
+- ✅ Clean, maintainable, and well-documented code
+- ✅ Robust error handling and recovery
+- ✅ Professional command-line interface
 
-**To test:**
+**Quick test instructions:**
 ```bash
+# Install dependencies
 pip install -r requirements.txt
-# Add API key to .env
+
+# Add your API key to .env file
+# Get key from: https://aistudio.google.com/apikey
+
+# Run a test query
 python main.py "Your test question here"
 ```
 
