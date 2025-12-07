@@ -161,20 +161,22 @@ LOG_LEVEL=INFO
 
 ## 🚨 Troubleshooting
 
-**"ModuleNotFoundError"**
+**"ModuleNotFoundError" - Missing dependencies**
 ```bash
+# Reinstall all required packages
 pip install -r requirements.txt
 ```
 
-**"API Key error"**
-- Check `.env` file exists
-- Verify API key is correct
-- Get key from: https://aistudio.google.com/apikey
+**"API Key error" - Invalid or missing key**
+- Ensure `.env` file exists in project root
+- Verify API key is correctly configured
+- Get your key from: https://aistudio.google.com/apikey
+- Check for extra spaces or quotes in .env file
 
-**No output/error**
+**No output/error - Silent failures**
 ```bash
+# Enable verbose mode to see detailed logs
 python main.py "test query" --verbose
-# This shows detailed logs
 ```
 
 ---
