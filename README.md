@@ -2,7 +2,7 @@
 
 🤖 **AI-Powered Research Assistant using Google Gemini 2.0 Flash**
 
-Built for hackathon - Multi-agent research system with CLI interface
+Built for hackathon - Advanced Multi-agent research system with intelligent CLI interface
 
 ---
 
