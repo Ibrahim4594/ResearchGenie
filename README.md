@@ -46,27 +46,32 @@ python main.py "What is quantum computing?"
 
 ### Quick Research Query
 ```bash
+# Simple question answering
 python main.py "Explain artificial intelligence in simple terms"
 ```
 
 ### Interactive Mode
 ```bash
+# Start interactive session
 python main.py
 # Then type your questions interactively
 ```
 
 ### With PDF Analysis
 ```bash
+# Analyze PDF documents along with your query
 python main.py "Summarize this research paper" --pdfs paper.pdf
 ```
 
-### Custom Output
+### Custom Output File
 ```bash
+# Save results to a specific file
 python main.py "Research climate change" --output results.txt
 ```
 
 ### Verbose Mode (See What's Happening)
 ```bash
+# Enable detailed logging and progress information
 python main.py "What is machine learning?" --verbose
 ```
 
