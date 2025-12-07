@@ -180,15 +180,15 @@ python main.py "test query" --verbose
 
 ## 🎯 What It Does
 
-1. **Understands** your research question
-2. **Searches** the web for relevant information
-3. **Analyzes** PDFs if provided
-4. **Summarizes** all sources
-5. **Fact-checks** the information
-6. **Synthesizes** everything into a comprehensive brief
-7. **Improves** quality through iterative refinement
+1. **Understands** - Intelligently parses your research question
+2. **Searches** - Crawls the web for relevant and credible information
+3. **Analyzes** - Processes PDFs and documents if provided
+4. **Summarizes** - Condenses information from all sources
+5. **Fact-checks** - Verifies claims for accuracy and reliability
+6. **Synthesizes** - Combines everything into a comprehensive brief
+7. **Improves** - Refines quality through iterative enhancement
 
-**Result:** Professional research brief ready to use!
+**Result:** Professional research brief ready to use immediately!
 
 ---
 
