@@ -137,10 +137,11 @@ python main.py "What are the latest developments in AI?"
 
 ## 📚 Documentation
 
-- **DEPLOYMENT.md** - Production deployment guide
-- **PRODUCTION_READY.md** - Feature completeness
-- **ARCHITECTURE.md** - System design
-- **README.md** - Full documentation
+- **DEPLOYMENT.md** - Complete production deployment guide
+- **PRODUCTION_READY.md** - Feature completeness checklist
+- **ARCHITECTURE.md** - Detailed system design and architecture
+- **README.md** - Comprehensive project documentation
+- **PRESENTATION_SCRIPT.md** - Presentation guidelines
 
 ---
 
