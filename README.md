@@ -245,10 +245,17 @@ python main.py "Your test question here"
 
 ## 🎉 Ready to Use!
 
-**Start researching:**
+**Start researching now:**
 ```bash
+# Activate your virtual environment
 .\venv\Scripts\activate
+
+# Run your first query
 python main.py "What is quantum computing?"
 ```
 
-**That's it! Good luck with your hackathon! 🚀**
+**That's it! Good luck with your research and hackathon! 🚀**
+
+---
+
+Made with passion for the Google ADK Hackathon
