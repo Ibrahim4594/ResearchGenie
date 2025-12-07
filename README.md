@@ -148,11 +148,13 @@ python main.py "What are the latest developments in AI?"
 ## ⚙️ Configuration (.env file)
 
 ```bash
-# Required
+# Required - Get from https://aistudio.google.com/apikey
 GOOGLE_API_KEY=your_google_api_key_here
 
-# Optional
+# Optional - For Google Custom Search
 GOOGLE_CSE_ID=your_custom_search_engine_id
+
+# Optional - Advanced settings
 MAX_SEARCH_RESULTS=10
 LOG_LEVEL=INFO
 ```
